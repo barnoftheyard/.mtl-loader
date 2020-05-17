@@ -1,7 +1,7 @@
 # .mtl-loader
 A Godot plugin for loading .mtl files
 
-<img src="/icon.png" width="512">
+<img src="/icon.png" width="256">
 
 Still quite barebones. Only loads in diffuse images as albedo textures for the moment.
 
